@@ -987,6 +987,22 @@
     ],
     "timestamp": "Apr/01/2022 14:37"
   },
+  "CF67811277": {
+    "contest_id": 1283,
+    "language": "GNU C++11",
+    "path": "codeforces/1283/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Candies Division",
+    "problem_url": "https://codeforces.com/contest/1283/problem/B",
+    "submission_id": "CF67811277",
+    "submission_url": "https://codeforces.com/contest/1283/submission/67811277",
+    "tags": [
+      "math",
+      "*900"
+    ],
+    "timestamp": "Dec/28/2019 17:29"
+  },
   "CF67816489": {
     "contest_id": 1283,
     "language": "GNU C++11",
