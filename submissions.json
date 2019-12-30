@@ -987,6 +987,24 @@
     ],
     "timestamp": "Apr/01/2022 14:37"
   },
+  "CF67982513": {
+    "contest_id": 1283,
+    "language": "GNU C++11",
+    "path": "codeforces/1283/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "DIY Garland",
+    "problem_url": "https://codeforces.com/contest/1283/problem/F",
+    "submission_id": "CF67982513",
+    "submission_url": "https://codeforces.com/contest/1283/submission/67982513",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "trees",
+      "*2200"
+    ],
+    "timestamp": "Dec/30/2019 20:06"
+  },
   "CF68567831": {
     "contest_id": 1285,
     "language": "GNU C++11",
