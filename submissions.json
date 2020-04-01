@@ -987,6 +987,22 @@
     ],
     "timestamp": "Apr/01/2022 14:37"
   },
+  "CF75118132": {
+    "contest_id": 1331,
+    "language": "PyPy 3",
+    "path": "codeforces/1331/D.py",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Again?",
+    "problem_url": "https://codeforces.com/contest/1331/problem/D",
+    "submission_id": "CF75118132",
+    "submission_url": "https://codeforces.com/contest/1331/submission/75118132",
+    "tags": [
+      "*special problem",
+      "implementation"
+    ],
+    "timestamp": "Apr/01/2020 14:59"
+  },
   "CF76044155": {
     "contest_id": 1333,
     "language": "GNU C++17",
