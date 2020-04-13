@@ -1,0 +1,31 @@
+#include <bits/stdc++.h>
+
+using namespace std;
+
+int main() {
+    ios_base::sync_with_stdio(0);
+    cin.tie(0);
+
+#if _DEBUG
+    freopen("a.in", "r", stdin);
+#endif
+
+    int T;
+    cin >> T;
+    
+    while (T--) {
+        int n, a, b;
+        cin >> n >> a >> b;
+
+        char h = 'a';
+        string s = "";
+
+        for (int i = 0; i < n; i++) {
+            s += h++;
+            if (h == 'a' + b)
+                h = 'a';
+        }  
+
+        cout << s << "\n";             
+    }
+}
