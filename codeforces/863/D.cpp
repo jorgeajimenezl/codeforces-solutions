@@ -183,7 +183,6 @@ int main() {
     while (q--) {
         int t, a, b;
         cin >> t >> a >> b;
-        update_interval(root, 1, n, 1);
         if (t == 2)
             reverse(root, a, b);
         else {
@@ -191,7 +190,6 @@ int main() {
             erase(root, b);
             insert(root, a, x);
         }        
-        update_interval(root, 1, n, -1);
     }    
 
     while (m--) {
