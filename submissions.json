@@ -986,5 +986,21 @@
       "trees"
     ],
     "timestamp": "Apr/01/2022 14:37"
+  },
+  "CF96731394": {
+    "contest_id": 1436,
+    "language": "GNU C++17",
+    "path": "codeforces/1436/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Reorder",
+    "problem_url": "https://codeforces.com/contest/1436/problem/A",
+    "submission_id": "CF96731394",
+    "submission_url": "https://codeforces.com/contest/1436/submission/96731394",
+    "tags": [
+      "math",
+      "*800"
+    ],
+    "timestamp": "Oct/25/2020 21:14"
   }
 }
