@@ -1,4 +1,21 @@
 {
+  "CF134106707": {
+    "contest_id": 1607,
+    "language": "GNU C++17",
+    "path": "codeforces/1607/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Minimum Extraction",
+    "problem_url": "https://codeforces.com/contest/1607/problem/C",
+    "submission_id": "CF134106707",
+    "submission_url": "https://codeforces.com/contest/1607/submission/134106707",
+    "tags": [
+      "brute force",
+      "sortings",
+      "*1000"
+    ],
+    "timestamp": "Nov/02/2021 15:45"
+  },
   "CF134110691": {
     "contest_id": 1607,
     "language": "GNU C++17",
